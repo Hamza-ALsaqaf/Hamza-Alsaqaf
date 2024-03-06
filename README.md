@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://hamza-alsaqaf.io)
 <h1 align="center">Hi 👋, I'm Hamza Alsaqaf</h1>
 <h3 align="center">A passionate frontend developer from Yemen</h3>
 
@@ -24,3 +24,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamza-alsaqaf&show_icons=true&locale=en" alt="hamza-alsaqaf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-alsaqaf&" alt="hamza-alsaqaf" /></p>
+
+
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=hamza-alsaqaf&&theme=xcode)](https://github.com/hamza-alsaqaf)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamza-alsaqaf&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hamza-alsaqaf" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamza-alsaqaf&show_icons=true&locale=en&theme=tokyonight" alt="hamza-alsaqaf" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-alsaqaf&&theme=tokyonight" alt="hamza-alsaqaf" /></p>
